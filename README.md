@@ -52,7 +52,7 @@ Access it at 👉 http://localhost:5173
 |--------|-------------|
 | 🏁 Home Page | ![Home Page](https://raw.githubusercontent.com/KhadijaMouhtaj/Job_Scraping/main/data/1.png) |
 | 🔎 Searching... | ![Searching](https://raw.githubusercontent.com/KhadijaMouhtaj/Job_Scraping/main/data/2.png) |
-| 📊 Displaying Results | ![Results](https://raw.githubusercontent.com/KhadijaMouhtaj/Job_Scraping/data/assets/t3.png) |
+| 📊 Displaying Results | ![Results](https://raw.githubusercontent.com/KhadijaMouhtaj/Job_Scraping/data/t3.png) |
 
 
 ### 🚀 Upcoming Improvements
